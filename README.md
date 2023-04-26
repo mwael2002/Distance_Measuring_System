@@ -1,5 +1,5 @@
 # Distance_Measuring_System
-A system that measures the distance and displays it on an LCD
+A system that measures the distance from ultrasonic sensor and displays it on LCD.
 
 Eclipse IDE is used to develop the project.
 
